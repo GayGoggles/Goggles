@@ -16,6 +16,13 @@ $discard,site=namethatporn.com
 $discard,site=github.com
 $discard,site=youtube.com
 $discard,site=pintrest.com
+$discard,site=worldwildlife.org
+$discard,site=wikipedia.org
+$discard,site=britannica.com
+$discard,site=awf.org
+$discard,site=wwf.org.uk
+$discard,site=nationalzoo.si.edu
+$discard,site=nationalgeographic.com
 
 $boost=6,site=furaffinity.net
 $boost=6,site=sofurry.com
