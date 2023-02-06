@@ -14,6 +14,8 @@ $discard,site=amazon.com
 $discard,site=sex.com
 $discard,site=namethatporn.com
 $discard,site=github.com
+$discard,site=youtube.com
+$discard,site=pintrest.com
 
 $boost=3,site=furaffinity.net
 $boost=3,site=sofurry.com
