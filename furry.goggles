@@ -1,6 +1,6 @@
 ! name: Furry Porn
 ! description: Rerank results to boost furry porn
-! public: true
+! public: false
 ! author: GayGoggles
 ! avatar: #9244e0
 
@@ -17,10 +17,10 @@ $discard,site=github.com
 $discard,site=youtube.com
 $discard,site=pintrest.com
 
-$boost=3,site=furaffinity.net
-$boost=3,site=sofurry.com
-$boost=3,site=deviantart.com
-$boost=3,site=kemono.party
-$boost=3,site=e621.net
-$boost=2,site=rule34.xxx
-$boost=2,site=tumbex.com
+$boost=6,site=furaffinity.net
+$boost=6,site=sofurry.com
+$boost=6,site=deviantart.com
+$boost=6,site=kemono.party
+$boost=6,site=e621.net
+$boost=4,site=rule34.xxx
+$boost=4,site=tumbex.com
