@@ -13,6 +13,7 @@ $discard,site=dirtytube.com
 $discard,site=amazon.com
 $discard,site=sex.com
 $discard,site=namethatporn.com
+$discard,site=github.com
 
 $boost=3,site=furaffinity.net
 $boost=3,site=sofurry.com
