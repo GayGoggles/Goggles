@@ -4,37 +4,20 @@
 ! author: GayGoggles
 ! avatar: #9244e0
 
-$discard
-$downrank,site=pornhub.com
+$discard,site=pornhub.com
+$discard,site=xvideos.com
+$discard,site=xnxx.com
+$discard,site=thumbzilla.com
+$discard,site=xhamster.com
+$discard,site=dirtytube.com
+$discard,site=amazon.com
+$discard,site=sex.com
+$discard,site=namethatporn.com
 
-$discard
-$downrank,site=xvideos.com
-
-$discard
-$downrank,site=xnxx.com
-
-$discard
-$downrank,site=thumbzilla.com
-
-$discard
-$downrank,site=xhamster.com
-
-$discard
-$downrank,site=dirtytube.com
-
-$discard
-$downrank,site=amazon.com
-
-$discard
-$downrank,site=sex.com
-
-$discard
-$downrank,site=namethatporn.com
-
-$boost=6,site=furaffinity.net
-$boost=6,site=sofurry.com
-$boost=6,site=deviantart.com
-$boost=6,site=kemono.party
-$boost=6,site=e621.net
+$boost=3,site=furaffinity.net
+$boost=3,site=sofurry.com
+$boost=3,site=deviantart.com
+$boost=3,site=kemono.party
+$boost=3,site=e621.net
 $boost=2,site=rule34.xxx
 $boost=2,site=tumbex.com
